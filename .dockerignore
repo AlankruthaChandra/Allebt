@@ -1,0 +1,7 @@
+# ignore everything 
+* 
+# except 
+!package-lock.json 
+!package.json 
+!src 
+!public
